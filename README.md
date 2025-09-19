@@ -40,11 +40,4 @@ I'm passionate about turning raw data into actionable insights. Proficient in Py
 
 ---
 
-## 📬 Let's Connect
-
-- 💼 LinkedIn: [in/mayankagarwal424](https://www.linkedin.com/in/mayankagarwal424)  
-- 📧 Email: mayankagarwal4348gmail.com  
-
----
-
 > *“Data is not just numbers—it's a story waiting to be told.”*
